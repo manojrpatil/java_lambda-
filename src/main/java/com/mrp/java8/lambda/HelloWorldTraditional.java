@@ -2,7 +2,7 @@ package com.mrp.java8.lambda;
 
 public class HelloWorldTraditional implements HelloWorldInterface {
     @Override
-    public String sayHelloString() {
+    public String sayHelloWorld() {
         return "Hello World";
     }
 
